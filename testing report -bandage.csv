@@ -1,0 +1,16 @@
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+,,TC001,Validate product listing page,Open product page > Verify products,Products displayed correctly,Products displayed correctly,Passed,Low,-,No issues found
+,,TC002,Test category component functionality,Choose a category > Verify listed products,Products displayed as per selected category,Products displayed as expected,Passed,Medium,-,Works perfectly
+,,TC003,Check add to cart functionality,Add product to cart > Verify cart contents and price calculation,Cart updates with added product and calculates total correctly,Cart updates and calculates correctly,Passed,High,-,Works as expected
+,,TC004,Validate responsiveness of header,Resize browser window > Check header changes to hamburger menu,Header transforms to hamburger icon and menu opens as sidebar,Header functions as intended,Passed,Medium,-,Fully responsive
+,,TC005,Validate product detail page,"Open a product > Verify dynamic content (price, description, etc.)",Product details load dynamically with correct information,Product details display correctly,Passed,Medium,-,Dynamically loads perfectly
+,,TC006,Validate similar product feature,Open product page > Verify similar products section,Similar products are displayed based on the current product,Similar products are displayed accurately,Passed,Medium,-,Feature working perfectly
+,,TC007,Test loading functionality,Fetch products > Verify loading indicator,Loading indicator appears during fetching,Loading indicator appears as expected,Passed,Low,-,Enhances user experience
+,,TC008,Test search bar functionality,Search for a product > Verify results,Relevant products are displayed in search results,Search results display correctly,Passed,Medium,-,Search bar fully functional
+,,TC009,Validate login/register component,Open login/register form > Verify user authentication process,Users can log in and register successfully,Login and registration work correctly,Passed,Medium,-,Authentication functional
+,,TC010,Test notification toast functionality,Add product to cart > Verify notification appearance,Notification appears confirming product is added to cart,Notification displays as intended,Passed,Low,-,Works flawlessly
+,,TC011,Validate footer responsiveness,Resize browser window > Check footer layout,Footer adjusts properly to screen size,Footer layout works as intended,Passed,Low,-,Fully responsive
